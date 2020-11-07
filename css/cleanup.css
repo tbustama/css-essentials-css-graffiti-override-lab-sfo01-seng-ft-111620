@@ -10,6 +10,7 @@
 #wall #tag-2 {
   display: none;
 }
-#wall #tag-3 {
+
+#wall .slicked .wicked {
   display: none;
 }
