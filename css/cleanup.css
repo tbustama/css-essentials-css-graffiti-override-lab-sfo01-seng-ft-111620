@@ -1,4 +1,4 @@
 /* write your override styles here */
-#wall #tag-7 {
+#wall div .parent #tag-7 {
   display: none;
 }
